@@ -248,9 +248,8 @@ body {
     height: 70vh;
     width: 100%;
     padding: 0;
-    background: black;
-/*    background-image: linear-gradient(to right top, #ff9a4b, #ffa64a, #ffb24b, #ffbe4d, #ffca50);
-*/}
+    background-image: linear-gradient(to right top, #ff9a4b, #ffa64a, #ffb24b, #ffbe4d, #ffca50);
+}
 
 #lssection {
     height: 70vh;
