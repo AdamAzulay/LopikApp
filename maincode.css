@@ -40,7 +40,7 @@ body {
     margin: auto;
     position: relative;
     text-align: left;
-    padding-bottom: 1.5%;
+    padding-bottom: -1%;
     padding-top: 8%;
     font-size: 70px;
     font-family: "Sora", sans-serif;
@@ -67,7 +67,7 @@ body {
     position: relative;
     text-align: left;
     padding-top: 5%;
-    padding-bottom: 1.5%;
+    padding-bottom: 0.5%;
     font-size: 70px;
     font-family: "Sora", sans-serif;
     color: white;
@@ -255,7 +255,7 @@ body {
     height: 70vh;
     width: 100%;
     padding: 0;
-    background-image: url("bg2.jpg");
+    background-image: url("bg1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -272,7 +272,7 @@ body {
     height: 70vh;
     width: 100%;
     padding: 0;
-    background-image: url("bg1.jpg");
+    background-image: url("bg2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -444,7 +444,6 @@ details[open] summary:hover::after {
         width: 70%;
         text-align: left;
         margin-right: 20%;
-
     }
 
     #text1 {
@@ -471,7 +470,6 @@ details[open] summary:hover::after {
         display: block;
         text-align: left;
         margin-right: 15%;
-
     }
 
     #cutitle {
@@ -542,13 +540,12 @@ details[open] summary:hover::after {
 
     .cont {
         padding-right: 35%;
-
     }
 
     #dogtitle {
         padding-top: 50%;
         font-size: 35px;
-        }
+    }
 
     details {
         display: none;
